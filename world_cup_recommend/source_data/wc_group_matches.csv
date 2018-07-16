@@ -1,0 +1,49 @@
+No.,Date,Time,TeamA,TeamB,Group,Odds Win,Odds Draw,Odds Lose
+1,6.14,23:00,Russia,Saudi Arabia,A,1.364,4.333,10
+2,6.15,20:00,Egypt,Uruguay,A,7,3.7,1.533
+3,6.15,23:00,Morocco,Iran,B,2.375,2.875,3.4
+4,6.16,02:00,Portugal,Spain,B,4.333,3.3,1.9
+5,6.16,18:00,France,Australia,C,1.182,6.25,17
+6,6.16,21:00,Argentina,Iceland,D,1.3,4.75,12
+7,6.17,00:00,Peru,Denmark,C,3.5,3.2,2.15
+8,6.17,03:00,Croatia,Nigeria,D,1.833,3.3,4.6
+9,6.17,20:00,Costa Rica,Serbia,E,4.2,3.2,1.952
+10,6.17,23:00,Germany,Mexico,F,1.444,4.3,7
+11,6.18,02:00,Brazil,Switzerland,E,1.364,4.5,9
+12,6.18,20:00,Sweden,Korea Republic,F,2.05,3.2,3.75
+13,6.18,23:00,Belgium,Panama,G,1.118,8,23
+14,6.19,02:00,Tunisia,England,G,10.5,4.6,1.333
+15,6.19,20:00,Colombia,Japan,H,1.7,3.5,5.2
+16,6.19,23:00,Poland,Senegal,H,2.25,3.2,3.25
+17,6.20,02:00,Russia,Egypt,A,1.833,3.3,4.6
+18,6.20,20:00,Portugal,Morocco,B,1.533,3.8,7
+19,6.20,23:00,Uruguay,Saudi Arabia,A,1.222,5.5,15
+20,6.21,02:00,Iran,Spain,B,17,6.25,1.182
+21,6.21,20:00,Denmark,Australia,C,1.7,3.5,5.25
+22,6.21,23:00,France,Peru,C,1.333,4.75,9.5
+23,6.22,02:00,Argentina,Croatia,D,1.87,3.4,4.3
+24,6.22,20:00,Brazil,Costa Rica,E,1.2,6.25,13
+25,6.22,23:00,Nigeria,Iceland,D,2.7,3,2.75
+26,6.23,02:00,Serbia,Switzerland,E,2.875,3.1,2.55
+27,6.23,20:00,Belgium,Tunisia,G,1.25,5.5,12
+28,6.23,23:00,Korea Republic,Mexico,F,4.1,3.3,1.925
+29,6.24,02:00,Germany,Sweden,F,1.5,4.2,6.5
+30,6.24,20:00,England,Panama,G,1.182,6.25,17
+31,6.24,23:00,Japan,Senegal,H,3.25,3.2,2.25
+32,6.25,02:00,Poland,Colombia,H,2.875,3.125,2.5
+33,6.25,22:00,Uruguay,Russia,A,2.45,3.125,2.9
+34,6.25,22:00,Saudi Arabia,Egypt,A,4.8,3.5,1.75
+35,6.26,02:00,Spain,Morocco,B,1.364,4.6,9
+36,6.26,02:00,Iran,Portugal,B,10,4.6,1.333
+37,6.26,22:00,Australia,Peru,C,3.5,3.2,2.15
+38,6.26,22:00,Denmark,France,C,5.5,3.8,1.615
+39,6.27,02:00,Nigeria,Argentina,D,7,4.4,1.444
+40,6.27,02:00,Iceland,Croatia,D,4.8,3.5,1.75
+41,6.27,22:00,Korea Republic,Germany,F,11,5.5,1.25
+42,6.27,22:00,Mexico,Sweden,F,2.45,3.2,2.9
+43,6.28,02:00,Serbia,Brazil,E,9,4.6,1.364
+44,6.28,02:00,Switzerland,Costa Rica,E,1.87,3.3,4.333
+45,6.28,22:00,Japan,Poland,H,4.3,3.5,1.833
+46,6.28,22:00,Senegal,Colombia,H,4,3.3,1.952
+47,6.29,02:00,Panama,Tunisia,G,3.25,3.2,2.25
+48,6.29,02:00,England,Belgium,G,2.875,3.4,2.375
